@@ -1,0 +1,4 @@
+#pratos favoritos:
+
+- strogonoff
+- brownie

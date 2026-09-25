@@ -1,1 +1,4 @@
-liberado vide GPL V2
+#pratos favoritos:
+
+- Strogonoff
+- Brownie
